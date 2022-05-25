@@ -1,0 +1,15 @@
+.foto {
+   background-image:url(../img/fondoprincipal.jpg);
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+       	background-clip: border-box;
+   	display: block;
+	height: 100%;
+        cursor: pointer;
+	overflow: hidden;
+    	text-indent: 100%;
+    	white-space:nowrap;
+}
+

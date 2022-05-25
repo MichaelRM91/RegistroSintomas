@@ -1,0 +1,303 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+	background-image:url(img/fondo1.jpg);
+	 width: 100%;
+	position: absolute; 
+	z-index: -1;
+	top: 0; 
+	left:0;
+	background-size: cover;
+	color:#323232;;
+	
+}
+
+
+div.main{
+width: 72%;
+    background: #2a2b26;
+    padding: 0px 32px;
+    margin: calc(25% + 100px);
+    margin-top: 15%;
+    margin-left: 14%;
+    margin-right: 14%;
+  padding-top: 28px;
+  border-radius: 12px;
+  font-family: 'calibri';
+  color: white;
+  box-shadow: 7px 13px 37px #000;
+
+	
+}
+
+div.mainf{
+width: 60%;
+    background: #2a2b26;
+    padding: 50px 20px;
+    margin: calc(25% + 100px);
+    margin-top: 70%;
+    margin-left: 20%;
+    margin-right: 20%;
+  padding-top: 28px;
+  border-radius: 12px;
+  font-family: 'calibri';
+  color: white;
+  box-shadow: 7px 13px 37px #000;
+
+	
+}
+div.mainb{
+width: 92%;
+    background: #ffffff00;
+    padding: 246px 6px;
+    margin: calc(39% + 100px);
+    margin-top: 30%;
+    margin-left: 6%;
+    margin-right: 14%;
+  padding-top: 28px;
+  
+	
+}
+form {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.controls {
+  width: 100%;
+  background: #323231;
+  padding: 16px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #00bff5;
+  font-family: 'calibri';
+  font-size: 45px;
+  color: white;
+}
+
+
+.botons {
+    width: 50%;
+    background-color: #00aeff; 
+    border:  2px solid #00aeff;
+    color: white;
+    padding: 4%;
+    text-align: center;
+    text-decoration: none;
+    border-radius:10px;
+    font-size: 180%;
+    margin-top: 4%;
+    margin-right: 14%;
+    margin-bottom: 8%;
+    margin-left: 25%;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.botons:hover {
+  background: rgba(0,0,0,0);
+  color: #fff ;
+border: 2px solid #00aeff;
+}
+
+.botonr {
+  
+    height:2%;
+    background: rgba(0,0,0,0);
+    color: #fff;
+    border: 8px solid #00aeff;
+    padding: 5%;
+    border-radius: 10%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 95%;
+    margin-bottom: 10%;
+    margin-left: 2%;
+    font-size: 200%;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.botonr:hover {
+     background-color: #00aeff; 
+    border:  8px solid #00aeff;
+    color: white;
+}
+.botonr2 {
+  
+    height:2%;
+    background: rgba(0,0,0,0);
+    color: #fff;
+    border: 8px solid #00aeff;
+    padding: 5%;
+    border-radius: 10%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 44%;
+    margin-bottom: 10%;
+    margin-left: 2%;
+    font-size: 200%;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.botonr2:hover {
+     background-color: #00aeff; 
+    border:  8px solid #00aeff;
+    color: white;
+}
+.botonr4 {
+    width: 50%;
+    height:2%;
+    background: rgba(0,0,0,0);
+    color: #fff;
+    border: 8px solid #00aeff;
+    padding: 5%;
+    border-radius: 0%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 60%;
+    margin-bottom: -56%;
+    margin-left: 8%;
+    font-size: 200%;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.botonr4:hover {
+   background-color: #00aeff; 
+    border:  8px solid #00aeff;
+    color: white;
+
+}
+.botonr5 {
+  
+    height:2%;
+    background: rgba(0,0,0,0);
+    color: #fff;
+    border: 8px solid #00aeff;
+    padding: 5%;
+    border-radius: 10%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 70%;
+    margin-bottom: 10%;
+    margin-left: 2%;
+    font-size: 200%;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.botonr5:hover {
+     background-color: #00aeff; 
+    border:  8px solid #00aeff;
+    color: white;
+}
+.botonr6 {
+  
+    height:2%;
+    background: rgba(0,0,0,0);
+    color: #fff;
+    border: 8px solid #00aeff;
+    padding: 7%;
+    border-radius: 10%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 36%;
+    margin-bottom: 10%;
+    margin-left: 2%;
+    font-size: 200%;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.botonr6:hover {
+     background-color: #00aeff; 
+    border:  8px solid #00aeff;
+    color: white;
+}
+.botonm7 {
+    width: 36%;
+    height:2%;
+    background: rgba(0,0,0,0);
+    color: #fff;
+    border: 8px solid #00aeff;
+    padding: 2%;
+    border-radius: 0%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 72%;
+    margin-bottom: -72%;
+    margin-left: 5%;
+    font-size: 200%;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.botonm7:hover {
+   background-color: #00aeff; 
+    border:  8px solid #00aeff;
+    color: white;
+
+}
+.botonm8 {
+    width: 42%;
+    height:2%;
+    background: rgba(0,0,0,0);
+    color: #fff;
+    border: 8px solid #00aeff;
+    padding: 2%;
+    border-radius: 0%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 5%;
+    font-size: 200%;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.botonm8:hover {
+   background-color: #00aeff; 
+    border:  8px solid #00aeff;
+    color: white;
+
+}
+.botonm {
+    width: 80%;
+    background-color: #00aeff; 
+    border:  2px solid #00aeff;
+    background-color: #00aeff; 
+    border:  2px solid #00aeff;
+    color: white;
+    padding: 4%;
+    text-align: center;
+    text-decoration: none;
+    border-radius:10px;
+    font-size: 100%;
+    margin-top: 5%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.botonm:hover {
+background: rgba(0,0,0,0);
+  color: #fff ;
+border: 2px solid #00aeff;
+
+}
